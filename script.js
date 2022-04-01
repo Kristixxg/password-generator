@@ -30,6 +30,10 @@ function generatePassword() {
       break;
     }  
   } while (passwordLength < 8 || passwordLength > 128);
+
+    
+  //console.log(typeof passwordLength);
+  // || (typeof parseInt(passwordLength) !== "number")
  
   if(passwordLength === null) {
     return;

@@ -8,7 +8,7 @@ This application allows you to generate random passwords based on criteria that 
 The password can include special characters from the OWASP Foundation https://owasp.org/www-community/password-special-characters. 
 
 
-A link to the deployed application is here: 
+A link to the deployed application is here: https://kristixxg.github.io/password-generator/
 
 
 ## Installation
